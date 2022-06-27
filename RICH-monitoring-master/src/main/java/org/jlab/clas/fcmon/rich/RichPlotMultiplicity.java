@@ -18,6 +18,7 @@ import org.jlab.detector.view.DetectorShape2D;
 /**
  *
  * @author kenjo
+ * RICH 2 added by Zachary Nickischer at Duquesne Univeristy
  */
 public final class RichPlotMultiplicity extends RichPlot {
 
