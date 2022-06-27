@@ -39,6 +39,7 @@ import org.jlab.clas.fcmon.RICHMon;
 /**
  *
  * @author kenjo
+ * RICH 2 added by Zachary Nickischer at Duquesne Univeristy
  */
 public final class RichPlotOccupancy extends RichPlot {
 
