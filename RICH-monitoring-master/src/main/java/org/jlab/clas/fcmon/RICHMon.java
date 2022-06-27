@@ -35,6 +35,7 @@ import org.jlab.io.task.IDataEventListener;
 /**
  *
  * @author kenjo
+ * RICH 2 added by Zachary Nickischer at Duquesne Univeristy
  */
 public class RICHMon implements IDataEventListener, DetectorListener {
 
